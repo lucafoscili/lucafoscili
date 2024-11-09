@@ -16,7 +16,7 @@ A collection of beautifully crafted web components built on Stencil.js, allowing
 
 ![LF Nodes](https://img.shields.io/badge/dynamic/json?color=blue&label=Nodes&query=nodes&url=https://raw.githubusercontent.com/lucafoscili/comfyui-lf/master/count.json&suffix=%20nodes)
 
-A robust library of over 100 custom nodes for **ComfyUI** that enhances functionality—perfect for those who need more versatility and power in their ComfyUI workflows.
+A robust library of custom nodes for **ComfyUI** that enhances functionality—perfect for those who need more versatility and power in their ComfyUI workflows.
 
 ---
 
