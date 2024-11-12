@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 # Hi there, I'm Luca 👋
 
 Welcome to my digital corner! I'm a passionate **Front-End Developer and photographer**. Besides my professional work, I'm here to share my side projects! Since the advent of A.I., I've been having a blast coding, as delegating the heavy lifting to an LLM lets me focus on more fun features.
@@ -6,15 +7,27 @@ Welcome to my digital corner! I'm a passionate **Front-End Developer and photogr
 
 ## 🌟 My Projects
 
+<div align="center">
+
 ### [Ketchup Lite](https://github.com/lucafoscili/ketchup-lite)
 
-![Ketchup Lite Components](https://img.shields.io/badge/dynamic/json?color=green&label=Components&query=components&url=https://raw.githubusercontent.com/lucafoscili/ketchup-lite/main/count.json&suffix=%20components)
+![Components](https://img.shields.io/badge/dynamic/json?logo=stencil&logoColor=black&labelColor=white&color=black&label=Components&query=components&url=https://raw.githubusercontent.com/lucafoscili/ketchup-lite/main/count.json) ![npm Package](https://img.shields.io/npm/v/ketchup-lite.svg?logo=npm&logoColor=black&labelColor=white&color=black)
+
+![Ketchup Lite Logo](https://github.com/lucafoscili/ketchup-lite/blob/375581f13119ec393256ac4162212936ecf29d3d/docs/images/Logo.png 'Ketchup Lite logo')
+
+</div>
 
 A collection of beautifully crafted web components built on Stencil.js, allowing for flexibility and easy customization in any web project.
 
+<div align="center">
+
 ### [LF Nodes](https://github.com/lucafoscili/comfyui-lf)
 
-![LF Nodes](https://img.shields.io/badge/dynamic/json?color=blue&label=Nodes&query=nodes&url=https://raw.githubusercontent.com/lucafoscili/comfyui-lf/master/count.json&suffix=%20nodes)
+![LF Nodes](https://img.shields.io/badge/dynamic/json?logo=python&logoColor=black&labelColor=white&color=black&label=Nodes&query=nodes&url=https://raw.githubusercontent.com/lucafoscili/comfyui-lf/master/count.json)
+
+![LFNodes](https://github.com/lucafoscili/comfyui-lf/blob/a7ef3c6e62c266b9f09f2f843e8f8590663f6bb6/docs/images/LFNodes.png "LF Nodes logo")
+
+</div>
 
 A robust library of custom nodes for **ComfyUI** that enhances functionality—perfect for those who need more versatility and power in their ComfyUI workflows.
 
