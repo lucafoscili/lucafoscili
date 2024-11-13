@@ -99,7 +99,7 @@ Although I'm currently taking a break, I'm also a photographer specializing in p
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-white.svg?logo=firefox&logoColor=black)](https://www.lucafoscili.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-white.svg?logo=nikon&logoColor=black)](https://www.lucafoscili.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/lucafoscili)
 [![500px](https://img.shields.io/badge/500px-white.svg?logo=500px&logoColor=black)](https://500px.com/p/lucafoscili)
 [![Instagram](https://img.shields.io/badge/Instagram-white.svg?logo=instagram&logoColor=black)](https://instagram.com/lucafoscili)
