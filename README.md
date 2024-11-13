@@ -71,7 +71,7 @@ A robust library of custom nodes for **ComfyUI** that enhances functionality—p
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress.io" width="40" height="40" />
   <img src="https://framerusercontent.com/images/7Nhoxwn9eWYrqKjEewfXutR90U.png" alt="ComfyUI" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://github.com/ionic-team/stencil/raw/main/stencil-logo.png" alt="Stencil.js" width="40" height="40"/>
 
