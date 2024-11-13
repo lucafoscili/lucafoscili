@@ -15,6 +15,8 @@ Welcome to my digital corner! I'm a passionate **Front-End Developer and photogr
 
 ![Ketchup Lite Logo](https://github.com/lucafoscili/ketchup-lite/blob/375581f13119ec393256ac4162212936ecf29d3d/docs/images/Logo.png 'Ketchup Lite logo')
 
+![GitHub Repo stars](https://img.shields.io/github/stars/lucafoscili/ketchup-lite?logoColor=black)
+
 </div>
 
 A collection of beautifully crafted web components built on Stencil.js, allowing for flexibility and easy customization in any web project.
@@ -25,7 +27,9 @@ A collection of beautifully crafted web components built on Stencil.js, allowing
 
 ![LF Nodes](https://img.shields.io/badge/dynamic/json?logo=python&logoColor=black&labelColor=white&color=black&label=Nodes&query=nodes&url=https://raw.githubusercontent.com/lucafoscili/comfyui-lf/master/count.json)
 
-![LFNodes](https://github.com/lucafoscili/comfyui-lf/blob/a7ef3c6e62c266b9f09f2f843e8f8590663f6bb6/docs/images/LFNodes.png "LF Nodes logo")
+![LFNodes](https://github.com/lucafoscili/comfyui-lf/blob/780ac30dd51350ba4ec7d5e0a5af39edd350b61d/docs/images/LFNodes.png "LF Nodes logo")
+
+![GitHub Repo stars](https://img.shields.io/github/stars/lucafoscili/comfyui-lf?logoColor=black)
 
 </div>
 
@@ -49,29 +53,34 @@ A robust library of custom nodes for **ComfyUI** that enhances functionality—p
 
 ## 🔧 Technologies & Tools
 
+<div align="center">
+
 ### **Languages**
 
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
+
+</div>
+
+<div align="center">
 
 ### **Frameworks**
 
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress.io" width="40" height="40" />
   <img src="https://framerusercontent.com/images/7Nhoxwn9eWYrqKjEewfXutR90U.png" alt="ComfyUI" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://github.com/ionic-team/stencil/raw/main/stencil-logo.png" alt="Stencil.js" width="40" height="40"/>
-</p>
+
+</div>
+
+<div align="center">
 
 ### **Other Skills**
 
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="Json" width="40" height="40"/>
@@ -79,7 +88,8 @@ A robust library of custom nodes for **ComfyUI** that enhances functionality—p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
+
+</div>
 
 ---
 
@@ -87,21 +97,22 @@ A robust library of custom nodes for **ComfyUI** that enhances functionality—p
 
 Although I'm currently taking a break, I'm also a photographer specializing in portraiture. Sorry, my trusty Nikon D850, but playing around with A.I. is just too much fun!
 
-- [500px](https://500px.com/p/lucafoscili)
-- [Instagram](https://instagram.com/lucafoscili)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-white.svg?logo=firefox&logoColor=black)](https://www.lucafoscili.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/lucafoscili)
+[![500px](https://img.shields.io/badge/500px-white.svg?logo=500px&logoColor=black)](https://500px.com/p/lucafoscili)
+[![Instagram](https://img.shields.io/badge/Instagram-white.svg?logo=instagram&logoColor=black)](https://instagram.com/lucafoscili)
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/_lf_photography?style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/lucafoscili)
+
+</div>
+
+I'm always open to connecting, collaborating, and brainstorming new ideas! Feel free to open new discussions on my repositories if you have a great feature idea to add!
 
 ---
 
-## More Links
-
-- [Portfolio](https://www.lucafoscili.com)
-- [LinkedIn](https://linkedin.com/in/lucafoscili)
-- [Twitter](https://twitter.com/lucafoscili)
-
-I’m always open to connecting, collaborating, and brainstorming new ideas! Feel free to open new discussions on my repositories if you have a great feature idea to add!
-
----
-
-> "Creating the web one line at a time, with style, elegance, and a little bit of magic." ✨ 
-> 
+> "Creating the web one line at a time, with style, elegance, and a little bit of magic." ✨
+>
 > *Yeah, I admit this line was added by my trusty A.I. assistant, Sally. It was too cool to remove! 😎*
