@@ -11,11 +11,11 @@ Welcome to my digital corner! I'm a passionate **Front-End Developer and photogr
 
 ### [Ketchup Lite](https://github.com/lucafoscili/ketchup-lite)
 
-![Components](https://img.shields.io/badge/dynamic/json?logo=stencil&logoColor=black&labelColor=white&color=black&label=Components&query=components&url=https://raw.githubusercontent.com/lucafoscili/ketchup-lite/main/count.json) ![npm Package](https://img.shields.io/npm/v/ketchup-lite.svg?logo=npm&logoColor=black&labelColor=white&color=black)
+![Ketchup Lite components count](https://img.shields.io/badge/dynamic/json?logo=stencil&logoColor=black&labelColor=white&color=black&label=Components&query=components&url=https://raw.githubusercontent.com/lucafoscili/ketchup-lite/main/count.json "Ketchup Lite components count") ![npm Package](https://img.shields.io/npm/v/ketchup-lite.svg?logo=npm&logoColor=black&labelColor=white&color=black "npm Package")
 
 ![Ketchup Lite Logo](https://github.com/lucafoscili/ketchup-lite/blob/375581f13119ec393256ac4162212936ecf29d3d/docs/images/Logo.png 'Ketchup Lite logo')
 
-![GitHub Repo stars](https://img.shields.io/github/stars/lucafoscili/ketchup-lite?logoColor=black)
+![Ketchup Lite stars](https://img.shields.io/github/stars/lucafoscili/ketchup-lite?logoColor=black 'Ketchup Lite stars')
 
 </div>
 
@@ -25,11 +25,11 @@ A collection of beautifully crafted web components built on Stencil.js, allowing
 
 ### [LF Nodes](https://github.com/lucafoscili/comfyui-lf)
 
-![LF Nodes](https://img.shields.io/badge/dynamic/json?logo=python&logoColor=black&labelColor=white&color=black&label=Nodes&query=nodes&url=https://raw.githubusercontent.com/lucafoscili/comfyui-lf/master/count.json)
+![LF Nodes nodes count](https://img.shields.io/badge/dynamic/json?logo=python&logoColor=black&labelColor=white&color=black&label=Nodes&query=nodes&url=https://raw.githubusercontent.com/lucafoscili/comfyui-lf/master/count.json "LF Nodes nodes count")
 
-![LFNodes](https://github.com/lucafoscili/comfyui-lf/blob/780ac30dd51350ba4ec7d5e0a5af39edd350b61d/docs/images/LFNodes.png "LF Nodes logo")
+![LF Nodes](https://github.com/lucafoscili/comfyui-lf/blob/780ac30dd51350ba4ec7d5e0a5af39edd350b61d/docs/images/LFNodes.png "LF Nodes logo")
 
-![GitHub Repo stars](https://img.shields.io/github/stars/lucafoscili/comfyui-lf?logoColor=black)
+![LF Nodes stars](https://img.shields.io/github/stars/lucafoscili/comfyui-lf?logoColor=black 'LF Nodes stars')
 
 </div>
 
