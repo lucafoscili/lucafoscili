@@ -115,4 +115,4 @@ I'm always open to connecting, collaborating, and brainstorming new ideas! Feel 
 
 > "Creating the web one line at a time, with style, elegance, and a little bit of magic." ✨
 >
-> *Yeah, I admit this line was added by my trusty A.I. assistant, Sally. It was too cool to remove! 😎*
+> *Yeah, I admit this line was added by my trusty A.I. assistant, Eris. It was too cool to remove! 😎*
