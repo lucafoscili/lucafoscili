@@ -14,7 +14,7 @@ Welcome to my digital corner! I'm a passionate **full-stack Web Developer and Ph
 
 ![LF Widgets components count](https://img.shields.io/badge/dynamic/json?logo=stencil&logoColor=black&labelColor=white&color=black&label=Components&query=components&url=https://raw.githubusercontent.com/lucafoscili/lf-widgets/main/count.json "LF Widgets components count") ![npm Package](https://img.shields.io/npm/v/@lf-widgets/core.svg?logo=npm&logoColor=black&labelColor=white&color=black "npm Package")
 
-![LF Widgets Logo](https://github.com/lucafoscili/lucafoscili/blob/375581f13119ec393256ac4162212936ecf29d3d/docs/images/Logo.png "LF Widgets logo")
+![LF Widgets Logo](https://github.com/lucafoscili/lucafoscili/blob/6c96e75b7ba7ff3ea0a0b868e36a4d67292b2746/lf-widgets/logo/LFW.webp "LF Widgets logo")
 
 ![LF Widgets stars](https://img.shields.io/github/stars/lucafoscili/lf-widgets?logoColor=black "LF Widgets stars")
 
