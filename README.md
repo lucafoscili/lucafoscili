@@ -21,20 +21,29 @@ Welcome to my digital corner! I'm a passionate **full-stack Web Developer and Ph
 </div>
 
 A collection of beautifully crafted web components built on Stencil.js, allowing for flexibility and easy customization in any web project.
+A few key ones include:
+
+- **[LF Chart](https://www.lucafoscili.com/lf-widgets?Components=Chart):** A highly customizable chart component that supports multiple chart types and data sources.
+- **[LF Chat](https://www.lucafoscili.com/lf-widgets?Components=Chat):** An interface to chat with a locally hosted A.I. assistant.
+- **[LF Messenger](https://www.lucafoscili.com/lf-widgets?Components=Messenger):** A full-fledged interface designed to create custom characters and chat with them.
 
 <div align="center">
 
-### [LF Nodes](https://github.com/lucafoscili/comfyui-lf)
+### [LF Nodes](https://github.com/lucafoscili/lf-nodes)
 
-![LF Nodes nodes count](https://img.shields.io/badge/dynamic/json?logo=python&logoColor=black&labelColor=white&color=black&label=Nodes&query=nodes&url=https://raw.githubusercontent.com/lucafoscili/comfyui-lf/master/count.json "LF Nodes nodes count")
+![LF Nodes nodes count](https://img.shields.io/badge/dynamic/json?logo=python&logoColor=black&labelColor=white&color=black&label=Nodes&query=nodes&url=https://raw.githubusercontent.com/lucafoscili/lf-nodes/master/count.json "LF Nodes nodes count")
 
-![LF Nodes](https://github.com/lucafoscili/comfyui-lf/blob/780ac30dd51350ba4ec7d5e0a5af39edd350b61d/docs/images/LFNodes.png "LF Nodes logo")
+![LF Nodes](https://github.com/lucafoscili/lucafoscili/blob/510a52305e8cccdcda098f503e1ecba1c163788c/lf-nodes/logo/LFN.png "LF Nodes logo")
 
-![LF Nodes stars](https://img.shields.io/github/stars/lucafoscili/comfyui-lf?logoColor=black "LF Nodes stars")
+![LF Nodes stars](https://img.shields.io/github/stars/lucafoscili/lf-nodes?logoColor=black "LF Nodes stars")
 
 </div>
 
-A robust library of custom nodes for **ComfyUI** that enhances functionality—perfect for those who need more versatility and power in their ComfyUI workflows.
+A library of custom nodes for **ComfyUI** that adds many new features and functionalities to the framework. Some of the key nodes include:
+
+- **[LF_MathOperation](https://github.com/lucafoscili/lf-nodes/blob/main/modules/nodes/logic.py#L211):** A node that performs math operation with multiple inputs and outputs.
+- **[LF_SaveImageForCivitAI](https://github.com/lucafoscili/lf-nodes/blob/main/modules/nodes/io.py#L495):** Saves images embedding metadata that are compatible with CivitAI's image processing.
+- **[LF_ImagesEditingBreakpoint](https://github.com/lucafoscili/lf-nodes/blob/main/modules/nodes/image.py#L187):** Pauses the workflow to allow for manual image editing on-the-fly, while also giving the option to remove images from the batch.
 
 ---
 
