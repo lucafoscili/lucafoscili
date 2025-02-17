@@ -1,0 +1,3435 @@
+{
+  "last_node_id": 105,
+  "last_link_id": 232,
+  "nodes": [
+    {
+      "id": 24,
+      "type": "Reroute",
+      "pos": [
+        1575,
+        1155
+      ],
+      "size": [
+        82,
+        26
+      ],
+      "flags": {},
+      "order": 18,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 202
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            173
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 50,
+      "type": "Reroute",
+      "pos": [
+        -95,
+        1975
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 104,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            106
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 49,
+      "type": "Reroute",
+      "pos": [
+        -95,
+        1925
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 103,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            105
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 28,
+      "type": "LF_String",
+      "pos": [
+        -615,
+        1385
+      ],
+      "size": [
+        495,
+        675
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [
+            42,
+            62,
+            103
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "string_list",
+          "type": "STRING",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "title": "Subcategory",
+      "properties": {
+        "Node name for S&R": "LF_String"
+      },
+      "widgets_values": [
+        "morana",
+        true,
+        {
+          "nodes": [
+            {
+              "icon": "history",
+              "id": "morana",
+              "description": "Execution date: 01/11/2024, 20:35:03.",
+              "value": "morana"
+            }
+          ]
+        },
+        680438906978464,
+        "randomize",
+        {
+          "nodes": [
+            {
+              "icon": "history",
+              "id": "morana",
+              "description": "Execution date: 17/02/2025, 10:36:16.",
+              "value": "morana"
+            }
+          ]
+        }
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 40,
+      "type": "Reroute",
+      "pos": [
+        790,
+        275
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 17,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 196
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            158
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 81,
+      "type": "Reroute",
+      "pos": [
+        2755,
+        265
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 37,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 161
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            162
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 82,
+      "type": "Reroute",
+      "pos": [
+        4310,
+        265
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 40,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 162
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 35,
+      "type": "LF_String",
+      "pos": [
+        -615,
+        285
+      ],
+      "size": [
+        495,
+        265
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [
+            59,
+            60
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "string_list",
+          "type": "STRING",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_String"
+      },
+      "widgets_values": [
+        "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\HD",
+        true,
+        {
+          "nodes": [
+            {
+              "icon": "history",
+              "id": "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\HD",
+              "description": "Execution date: 01/11/2024, 20:35:03.",
+              "value": "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\HD"
+            }
+          ]
+        },
+        91697133633583,
+        "randomize",
+        {
+          "nodes": [
+            {
+              "icon": "history",
+              "id": "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\HD",
+              "description": "Execution date: 17/02/2025, 10:36:16.",
+              "value": "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\HD"
+            }
+          ]
+        }
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 90,
+      "type": "LF_DisplayString",
+      "pos": [
+        3840,
+        550
+      ],
+      "size": [
+        305,
+        520
+      ],
+      "flags": {},
+      "order": 39,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "link": 187,
+          "widget": {
+            "name": "string"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_DisplayString"
+      },
+      "widgets_values": [
+        "",
+        "{ \"isBackground\": false, \"isCover\": false, \"isNsfw\": false, \"category\": \"ai-photos\", \"subcategory\": \"morana\", \"resource\": \"HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_\", \"id\": \"2024-08-16_ai-photos_morana_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_\", \"date\": \"2024-08-16"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 10,
+      "type": "LF_WallOfText",
+      "pos": [
+        -95,
+        390
+      ],
+      "size": [
+        415,
+        675
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_2",
+          "type": "STRING",
+          "link": 14,
+          "widget": {
+            "name": "text_2"
+          }
+        },
+        {
+          "name": "text_3",
+          "type": "STRING",
+          "link": 42,
+          "widget": {
+            "name": "text_3"
+          }
+        },
+        {
+          "name": "text_1",
+          "type": "STRING",
+          "link": 59,
+          "widget": {
+            "name": "text_1"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [
+            143,
+            191
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "string_list",
+          "type": "STRING",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_WallOfText"
+      },
+      "widgets_values": [
+        "\\",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        false,
+        1104075961052351,
+        "randomize",
+        "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\HD\\ai-photos\\morana"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 92,
+      "type": "LF_DisplayString",
+      "pos": [
+        3530,
+        510
+      ],
+      "size": [
+        290,
+        560
+      ],
+      "flags": {},
+      "order": 35,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "link": 189,
+          "widget": {
+            "name": "string"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_DisplayString"
+      },
+      "widgets_values": [
+        "",
+        "2024-08-16_ai-photos_morana_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 93,
+      "type": "LF_DisplayString",
+      "pos": [
+        200,
+        1250
+      ],
+      "size": [
+        565,
+        165
+      ],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "link": 190,
+          "widget": {
+            "name": "string"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [
+            196,
+            198
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_DisplayString"
+      },
+      "widgets_values": [
+        "",
+        "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\HD/Web/ai-photos-morana/"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 94,
+      "type": "LF_DisplayString",
+      "pos": [
+        350,
+        50
+      ],
+      "size": [
+        1170,
+        170
+      ],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "link": 191,
+          "widget": {
+            "name": "string"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_DisplayString"
+      },
+      "widgets_values": [
+        "",
+        "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\HD\\ai-photos\\morana"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 75,
+      "type": "LF_StringToJSON",
+      "pos": [
+        4190,
+        1450
+      ],
+      "size": [
+        210,
+        76
+      ],
+      "flags": {},
+      "order": 41,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string",
+          "type": 0,
+          "link": 153,
+          "widget": {
+            "name": "string"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "json",
+          "type": "JSON",
+          "links": [
+            154,
+            157
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_StringToJSON"
+      },
+      "widgets_values": [
+        "{}",
+        "{\n  \"isBackground\": false,\n  \"isCover\": false,\n  \"isNsfw\": false,\n  \"category\": \"ai-photos\",\n  \"subcategory\": \"morana\",\n  \"resource\": \"HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_\",\n  \"id\": \"2024-08-16_ai-photos_morana_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_\",\n  \"date\": \"2024-08-16\"\n}"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 65,
+      "type": "LF_WallOfText",
+      "pos": [
+        3845,
+        1135
+      ],
+      "size": [
+        300,
+        490
+      ],
+      "flags": {},
+      "order": 38,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_1",
+          "type": "STRING",
+          "link": 131,
+          "widget": {
+            "name": "text_1"
+          }
+        },
+        {
+          "name": "text_3",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "text_3"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text_4",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "text_4"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text_5",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "text_5"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text_6",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "text_6"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text_7",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "text_7"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text_8",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "text_8"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text_9",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "text_9"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text_10",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "text_10"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [
+            153
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "string_list",
+          "type": "STRING",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "title": "JSON (2)",
+      "properties": {
+        "Node name for S&R": "LF_WallOfText"
+      },
+      "widgets_values": [
+        "",
+        "",
+        "\" }",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        false,
+        1025550723248802,
+        "randomize",
+        "{ \"isBackground\": false, \"isCover\": false, \"isNsfw\": false, \"category\": \"ai-photos\", \"subcategory\": \"morana\", \"resource\": \"HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_\", \"id\": \"2024-08-16_ai-photos_morana_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_\", \"date\": \"2024-08-16\" }"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 29,
+      "type": "LF_WallOfText",
+      "pos": [
+        -95,
+        1250
+      ],
+      "size": [
+        275,
+        620
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_1",
+          "type": "STRING",
+          "link": 60,
+          "widget": {
+            "name": "text_1"
+          }
+        },
+        {
+          "name": "text_3",
+          "type": "STRING",
+          "link": 61,
+          "widget": {
+            "name": "text_3"
+          }
+        },
+        {
+          "name": "text_5",
+          "type": "STRING",
+          "link": 62,
+          "widget": {
+            "name": "text_5"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [
+            190
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "string_list",
+          "type": "STRING",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_WallOfText"
+      },
+      "widgets_values": [
+        "",
+        "",
+        "/Web/",
+        "",
+        "-",
+        "",
+        "/",
+        "",
+        "",
+        "",
+        "",
+        false,
+        344623035890004,
+        "randomize",
+        "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\HD/Web/ai-photos-morana/"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 89,
+      "type": "LF_DisplayString",
+      "pos": [
+        2000,
+        1250
+      ],
+      "size": [
+        530,
+        275
+      ],
+      "flags": {},
+      "order": 33,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "link": 215,
+          "widget": {
+            "name": "string"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_DisplayString"
+      },
+      "widgets_values": [
+        "",
+        "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\HD/Web/ai-photos-morana/2560w/2560w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.webp"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 99,
+      "type": "LF_DisplayString",
+      "pos": [
+        1575,
+        -45
+      ],
+      "size": [
+        515,
+        265
+      ],
+      "flags": {},
+      "order": 20,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "link": 210,
+          "widget": {
+            "name": "string"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_DisplayString"
+      },
+      "widgets_values": [
+        "",
+        "2560w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.webp"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 39,
+      "type": "LF_WallOfText",
+      "pos": [
+        1705,
+        1250
+      ],
+      "size": [
+        275,
+        620
+      ],
+      "flags": {},
+      "order": 28,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_1",
+          "type": "STRING",
+          "link": 198,
+          "widget": {
+            "name": "text_1"
+          }
+        },
+        {
+          "name": "text_3",
+          "type": "STRING",
+          "link": 87,
+          "widget": {
+            "name": "text_3"
+          }
+        },
+        {
+          "name": "text_5",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "text_5"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [
+            215
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "string_list",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1,
+          "shape": 6
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_WallOfText"
+      },
+      "widgets_values": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        false,
+        912389361971783,
+        "randomize",
+        "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\HD/Web/ai-photos-morana/2560w/2560w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.webp"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 36,
+      "type": "Reroute",
+      "pos": [
+        1575,
+        1310
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 22,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 221,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            87
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 88,
+      "type": "LF_DisplayString",
+      "pos": [
+        2565,
+        -250
+      ],
+      "size": [
+        595,
+        440
+      ],
+      "flags": {},
+      "order": 36,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "link": 185,
+          "widget": {
+            "name": "string"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_DisplayString"
+      },
+      "widgets_values": [
+        "",
+        "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\HD/Web/ai-photos-morana/2560w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 79,
+      "type": "Reroute",
+      "pos": [
+        2000,
+        275
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 26,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 158
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            159,
+            160
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 80,
+      "type": "Reroute",
+      "pos": [
+        2180,
+        -340
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 32,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 160
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            161
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 19,
+      "type": "LF_WallOfText",
+      "pos": [
+        2185,
+        -250
+      ],
+      "size": [
+        275,
+        620
+      ],
+      "flags": {},
+      "order": 31,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_1",
+          "type": "STRING",
+          "link": 159,
+          "widget": {
+            "name": "text_1"
+          }
+        },
+        {
+          "name": "text_2",
+          "type": "STRING",
+          "link": 168,
+          "widget": {
+            "name": "text_2"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [
+            185
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "string_list",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1,
+          "shape": 6
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_WallOfText"
+      },
+      "widgets_values": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        false,
+        207648262756852,
+        "randomize",
+        "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\HD/Web/ai-photos-morana/2560w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 100,
+      "type": "LF_DisplayString",
+      "pos": [
+        1575,
+        -755
+      ],
+      "size": [
+        515,
+        270
+      ],
+      "flags": {},
+      "order": 21,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "link": 211,
+          "widget": {
+            "name": "string"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_DisplayString"
+      },
+      "widgets_values": [
+        "",
+        "2560w/2560w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.webp"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 97,
+      "type": "LF_MultipleImageResizeForWeb",
+      "pos": [
+        790,
+        390
+      ],
+      "size": [
+        730,
+        675
+      ],
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 199
+        },
+        {
+          "name": "file_name",
+          "type": "STRING",
+          "link": 200,
+          "widget": {
+            "name": "file_name"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "links": null
+        },
+        {
+          "name": "image_list",
+          "type": "IMAGE",
+          "links": [
+            201,
+            202
+          ],
+          "shape": 6
+        },
+        {
+          "name": "name",
+          "type": "STRING",
+          "links": [
+            209
+          ],
+          "slot_index": 2
+        },
+        {
+          "name": "name_list",
+          "type": "STRING",
+          "links": [
+            210
+          ],
+          "slot_index": 3,
+          "shape": 6
+        },
+        {
+          "name": "names_with_dir",
+          "type": "STRING",
+          "links": [
+            211,
+            221,
+            222
+          ],
+          "slot_index": 4,
+          "shape": 6
+        },
+        {
+          "name": "dataset",
+          "type": "JSON",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_MultipleImageResizeForWeb"
+      },
+      "widgets_values": [
+        "",
+        {
+          "columns": 3,
+          "dataset": {
+            "nodes": [
+              {
+                "children": [
+                  {
+                    "id": "256w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_",
+                    "value": "256w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_"
+                  },
+                  {
+                    "id": "320w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_",
+                    "value": "320w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_"
+                  },
+                  {
+                    "id": "512w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_",
+                    "value": "512w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_"
+                  },
+                  {
+                    "id": "640w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_",
+                    "value": "640w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_"
+                  },
+                  {
+                    "id": "1024w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_",
+                    "value": "1024w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_"
+                  },
+                  {
+                    "id": "1280w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_",
+                    "value": "1280w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_"
+                  },
+                  {
+                    "id": "2048w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_",
+                    "value": "2048w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_"
+                  },
+                  {
+                    "id": "2560w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_",
+                    "value": "2560w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_"
+                  }
+                ],
+                "id": "HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_",
+                "value": "HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_"
+              }
+            ]
+          },
+          "index": null,
+          "name": "",
+          "view": "masonry"
+        }
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 59,
+      "type": "LF_WallOfText",
+      "pos": [
+        3530,
+        1135
+      ],
+      "size": [
+        290,
+        490
+      ],
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_2",
+          "type": "STRING",
+          "link": 118,
+          "widget": {
+            "name": "text_2"
+          }
+        },
+        {
+          "name": "text_4",
+          "type": "STRING",
+          "link": 119,
+          "widget": {
+            "name": "text_4"
+          }
+        },
+        {
+          "name": "text_6",
+          "type": "STRING",
+          "link": 229,
+          "widget": {
+            "name": "text_6"
+          }
+        },
+        {
+          "name": "text_8",
+          "type": "STRING",
+          "link": 128,
+          "widget": {
+            "name": "text_8"
+          }
+        },
+        {
+          "name": "text_10",
+          "type": "STRING",
+          "link": 225,
+          "widget": {
+            "name": "text_10"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [
+            131,
+            187
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "string_list",
+          "type": "STRING",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "title": "JSON (1)",
+      "properties": {
+        "Node name for S&R": "LF_WallOfText"
+      },
+      "widgets_values": [
+        "",
+        "{ \"isBackground\": false, \"isCover\": false, \"isNsfw\": false, \"category\": \"",
+        "",
+        "\", \"subcategory\": \"",
+        "",
+        "\", \"resource\": \"",
+        "",
+        "\", \"id\": \"",
+        "",
+        "\", \"date\": \"",
+        "date",
+        false,
+        667512579885271,
+        "randomize",
+        "{ \"isBackground\": false, \"isCover\": false, \"isNsfw\": false, \"category\": \"ai-photos\", \"subcategory\": \"morana\", \"resource\": \"HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_\", \"id\": \"2024-08-16_ai-photos_morana_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_\", \"date\": \"2024-08-16"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 73,
+      "type": "Reroute",
+      "pos": [
+        790,
+        2025
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 224,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            150
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 61,
+      "type": "LF_WallOfText",
+      "pos": [
+        3220,
+        510
+      ],
+      "size": [
+        275,
+        500
+      ],
+      "flags": {},
+      "order": 30,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_1",
+          "type": "STRING",
+          "link": 226,
+          "widget": {
+            "name": "text_1"
+          }
+        },
+        {
+          "name": "text_2",
+          "type": "STRING",
+          "link": 164,
+          "widget": {
+            "name": "text_2"
+          }
+        },
+        {
+          "name": "text_3",
+          "type": "STRING",
+          "link": 165,
+          "widget": {
+            "name": "text_3"
+          }
+        },
+        {
+          "name": "text_4",
+          "type": "STRING",
+          "link": 230,
+          "widget": {
+            "name": "text_4"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [
+            128,
+            189
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "string_list",
+          "type": "STRING",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "title": "ID",
+      "properties": {
+        "Node name for S&R": "LF_WallOfText"
+      },
+      "widgets_values": [
+        "_",
+        "date",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        false,
+        1118505247961966,
+        "randomize",
+        "2024-08-16_ai-photos_morana_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 74,
+      "type": "Reroute",
+      "pos": [
+        3080,
+        2025
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 25,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 150,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            225,
+            226
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 52,
+      "type": "Reroute",
+      "pos": [
+        3080,
+        1975
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 106,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            118,
+            164
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 51,
+      "type": "Reroute",
+      "pos": [
+        3080,
+        1925
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 105,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            119,
+            165
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 103,
+      "type": "Reroute",
+      "pos": [
+        790,
+        2075
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 15,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 227,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            228
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 104,
+      "type": "Reroute",
+      "pos": [
+        3080,
+        2075
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 24,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 228,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            229,
+            230
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 87,
+      "type": "LF_ControlPanel",
+      "pos": [
+        -1610,
+        285
+      ],
+      "size": [
+        960,
+        1775
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "LF_ControlPanel"
+      },
+      "widgets_values": [
+        {
+          "backup": true,
+          "debug": false,
+          "themes": "night"
+        }
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 67,
+      "type": "LF_DisplayJSON",
+      "pos": [
+        4450,
+        265
+      ],
+      "size": [
+        790,
+        1915
+      ],
+      "flags": {},
+      "order": 42,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "json_input",
+          "type": "JSON",
+          "link": 154
+        }
+      ],
+      "outputs": [
+        {
+          "name": "json",
+          "type": "JSON",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_DisplayJSON"
+      },
+      "widgets_values": [
+        "{\n  \"isBackground\": false,\n  \"isCover\": false,\n  \"isNsfw\": false,\n  \"category\": \"ai-photos\",\n  \"subcategory\": \"morana\",\n  \"resource\": \"HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_\",\n  \"id\": \"2024-08-16_ai-photos_morana_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_\",\n  \"date\": \"2024-08-16\"\n}"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 105,
+      "type": "LF_ImageHistogram",
+      "pos": [
+        790,
+        1415
+      ],
+      "size": [
+        745,
+        450
+      ],
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 232
+        }
+      ],
+      "outputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "links": null
+        },
+        {
+          "name": "image_list",
+          "type": "IMAGE",
+          "links": null,
+          "shape": 6
+        },
+        {
+          "name": "dataset",
+          "type": "JSON",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_ImageHistogram"
+      },
+      "widgets_values": [
+        {}
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 98,
+      "type": "LF_DisplayString",
+      "pos": [
+        1575,
+        -400
+      ],
+      "size": [
+        515,
+        265
+      ],
+      "flags": {},
+      "order": 19,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "link": 209,
+          "widget": {
+            "name": "string"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_DisplayString"
+      },
+      "widgets_values": [
+        "",
+        "1. HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.PNG\n\n2. 256w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.webp\n\n3. 320w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.webp\n\n4. 512w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.webp\n\n5. 640w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.webp\n\n6. 1024w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.webp\n\n7. 1280w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.webp\n\n8. 2048w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.webp\n\n9. 2560w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.webp"
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 84,
+      "type": "LF_SaveImageForCivitAI",
+      "pos": [
+        2565,
+        410
+      ],
+      "size": [
+        595,
+        670
+      ],
+      "flags": {},
+      "order": 29,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 171
+        },
+        {
+          "name": "civitai_metadata",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "civitai_metadata"
+          },
+          "shape": 7
+        },
+        {
+          "name": "civitai_metadata",
+          "type": 0,
+          "link": null,
+          "widget": {
+            "name": "civitai_metadata"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "file_names",
+          "type": "STRING",
+          "links": null,
+          "shape": 6
+        },
+        {
+          "name": "civitai_metadata",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_SaveImageForCivitAI"
+      },
+      "widgets_values": [
+        "",
+        true,
+        false,
+        "webp",
+        33,
+        "",
+        {
+          "columns": 3,
+          "dataset": {
+            "nodes": [
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-26_1.webp",
+                      "title": "_2025-02-17_10-36-26_1.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-26_1.webp&type=output&subfolder=&nonce=vGmYYaCj",
+                    "value": "/view?filename=_2025-02-17_10-36-26_1.webp&type=output&subfolder=&nonce=vGmYYaCj"
+                  }
+                },
+                "id": "1",
+                "value": "1"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-26_2.webp",
+                      "title": "_2025-02-17_10-36-26_2.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-26_2.webp&type=output&subfolder=&nonce=KMfykTc4",
+                    "value": "/view?filename=_2025-02-17_10-36-26_2.webp&type=output&subfolder=&nonce=KMfykTc4"
+                  }
+                },
+                "id": "2",
+                "value": "2"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-26_3.webp",
+                      "title": "_2025-02-17_10-36-26_3.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-26_3.webp&type=output&subfolder=&nonce=nlXodWkQ",
+                    "value": "/view?filename=_2025-02-17_10-36-26_3.webp&type=output&subfolder=&nonce=nlXodWkQ"
+                  }
+                },
+                "id": "3",
+                "value": "3"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-26_4.webp",
+                      "title": "_2025-02-17_10-36-26_4.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-26_4.webp&type=output&subfolder=&nonce=gFWTVNSY",
+                    "value": "/view?filename=_2025-02-17_10-36-26_4.webp&type=output&subfolder=&nonce=gFWTVNSY"
+                  }
+                },
+                "id": "4",
+                "value": "4"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-26_5.webp",
+                      "title": "_2025-02-17_10-36-26_5.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-26_5.webp&type=output&subfolder=&nonce=WAf0iS5M",
+                    "value": "/view?filename=_2025-02-17_10-36-26_5.webp&type=output&subfolder=&nonce=WAf0iS5M"
+                  }
+                },
+                "id": "5",
+                "value": "5"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-26_6.webp",
+                      "title": "_2025-02-17_10-36-26_6.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-26_6.webp&type=output&subfolder=&nonce=7GNZFoAh",
+                    "value": "/view?filename=_2025-02-17_10-36-26_6.webp&type=output&subfolder=&nonce=7GNZFoAh"
+                  }
+                },
+                "id": "6",
+                "value": "6"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-26_7.webp",
+                      "title": "_2025-02-17_10-36-26_7.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-26_7.webp&type=output&subfolder=&nonce=6L6pfFtu",
+                    "value": "/view?filename=_2025-02-17_10-36-26_7.webp&type=output&subfolder=&nonce=6L6pfFtu"
+                  }
+                },
+                "id": "7",
+                "value": "7"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-26_8.webp",
+                      "title": "_2025-02-17_10-36-26_8.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-26_8.webp&type=output&subfolder=&nonce=L3wlu8Mt",
+                    "value": "/view?filename=_2025-02-17_10-36-26_8.webp&type=output&subfolder=&nonce=L3wlu8Mt"
+                  }
+                },
+                "id": "8",
+                "value": "8"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-27_1.webp",
+                      "title": "_2025-02-17_10-36-27_1.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-27_1.webp&type=output&subfolder=&nonce=qD9up8WN",
+                    "value": "/view?filename=_2025-02-17_10-36-27_1.webp&type=output&subfolder=&nonce=qD9up8WN"
+                  }
+                },
+                "id": "9",
+                "value": "9"
+              }
+            ]
+          },
+          "index": null,
+          "name": "",
+          "view": "main"
+        }
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 85,
+      "type": "LF_SaveImageForCivitAI",
+      "pos": [
+        2565,
+        1155
+      ],
+      "size": [
+        595,
+        710
+      ],
+      "flags": {},
+      "order": 27,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 173
+        },
+        {
+          "name": "civitai_metadata",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "civitai_metadata"
+          },
+          "shape": 7
+        },
+        {
+          "name": "civitai_metadata",
+          "type": 0,
+          "link": null,
+          "widget": {
+            "name": "civitai_metadata"
+          }
+        },
+        {
+          "name": "civitai_metadata",
+          "type": 0,
+          "link": null,
+          "widget": {
+            "name": "civitai_metadata"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "file_names",
+          "type": "STRING",
+          "links": null,
+          "shape": 6
+        },
+        {
+          "name": "civitai_metadata",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_SaveImageForCivitAI"
+      },
+      "widgets_values": [
+        "",
+        true,
+        false,
+        "webp",
+        100,
+        "",
+        {
+          "columns": 3,
+          "dataset": {
+            "nodes": [
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-21_1.webp",
+                      "title": "_2025-02-17_10-36-21_1.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-21_1.webp&type=output&subfolder=&nonce=WONGG8Zs",
+                    "value": "/view?filename=_2025-02-17_10-36-21_1.webp&type=output&subfolder=&nonce=WONGG8Zs"
+                  }
+                },
+                "id": "1",
+                "value": "1"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-22_1.webp",
+                      "title": "_2025-02-17_10-36-22_1.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-22_1.webp&type=output&subfolder=&nonce=8nWaCRtS",
+                    "value": "/view?filename=_2025-02-17_10-36-22_1.webp&type=output&subfolder=&nonce=8nWaCRtS"
+                  }
+                },
+                "id": "2",
+                "value": "2"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-22_2.webp",
+                      "title": "_2025-02-17_10-36-22_2.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-22_2.webp&type=output&subfolder=&nonce=ialr7gpu",
+                    "value": "/view?filename=_2025-02-17_10-36-22_2.webp&type=output&subfolder=&nonce=ialr7gpu"
+                  }
+                },
+                "id": "3",
+                "value": "3"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-22_3.webp",
+                      "title": "_2025-02-17_10-36-22_3.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-22_3.webp&type=output&subfolder=&nonce=fWOxL6ui",
+                    "value": "/view?filename=_2025-02-17_10-36-22_3.webp&type=output&subfolder=&nonce=fWOxL6ui"
+                  }
+                },
+                "id": "4",
+                "value": "4"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-22_4.webp",
+                      "title": "_2025-02-17_10-36-22_4.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-22_4.webp&type=output&subfolder=&nonce=t2eHKQQ6",
+                    "value": "/view?filename=_2025-02-17_10-36-22_4.webp&type=output&subfolder=&nonce=t2eHKQQ6"
+                  }
+                },
+                "id": "5",
+                "value": "5"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-22_5.webp",
+                      "title": "_2025-02-17_10-36-22_5.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-22_5.webp&type=output&subfolder=&nonce=go6XTbCW",
+                    "value": "/view?filename=_2025-02-17_10-36-22_5.webp&type=output&subfolder=&nonce=go6XTbCW"
+                  }
+                },
+                "id": "6",
+                "value": "6"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-22_6.webp",
+                      "title": "_2025-02-17_10-36-22_6.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-22_6.webp&type=output&subfolder=&nonce=45wSSa3H",
+                    "value": "/view?filename=_2025-02-17_10-36-22_6.webp&type=output&subfolder=&nonce=45wSSa3H"
+                  }
+                },
+                "id": "7",
+                "value": "7"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-22_7.webp",
+                      "title": "_2025-02-17_10-36-22_7.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-22_7.webp&type=output&subfolder=&nonce=Xpdb8Hzl",
+                    "value": "/view?filename=_2025-02-17_10-36-22_7.webp&type=output&subfolder=&nonce=Xpdb8Hzl"
+                  }
+                },
+                "id": "8",
+                "value": "8"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "_2025-02-17_10-36-23_1.webp",
+                      "title": "_2025-02-17_10-36-23_1.webp"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=_2025-02-17_10-36-23_1.webp&type=output&subfolder=&nonce=5arRHp87",
+                    "value": "/view?filename=_2025-02-17_10-36-23_1.webp&type=output&subfolder=&nonce=5arRHp87"
+                  }
+                },
+                "id": "9",
+                "value": "9"
+              }
+            ]
+          },
+          "index": null,
+          "name": "",
+          "view": "main"
+        }
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 78,
+      "type": "LF_SaveJSON",
+      "pos": [
+        4450,
+        -115
+      ],
+      "size": [
+        790,
+        315
+      ],
+      "flags": {},
+      "order": 43,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "json_data",
+          "type": "JSON",
+          "link": 157
+        }
+      ],
+      "outputs": [
+        {
+          "name": "json",
+          "type": "JSON",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_SaveJSON"
+      },
+      "widgets_values": [
+        "",
+        true,
+        {
+          "nodes": [
+            {
+              "children": [
+                {
+                  "description": "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\_2025-02-17_10-36-18_1.json",
+                  "icon": "code",
+                  "id": "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\_2025-02-17_10-36-18_1.json",
+                  "value": "C:\\Users\\Luca\\Documents\\GitHub\\ComfyUI\\output\\_2025-02-17_10-36-18_1.json"
+                }
+              ],
+              "icon": "check",
+              "id": "root",
+              "value": "JSON saved successfully!"
+            }
+          ]
+        }
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 83,
+      "type": "LF_BlurImages",
+      "pos": [
+        1575,
+        390
+      ],
+      "size": [
+        515,
+        675
+      ],
+      "flags": {},
+      "order": 23,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 201
+        },
+        {
+          "name": "file_name",
+          "type": "STRING",
+          "link": 222,
+          "widget": {
+            "name": "file_name"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "links": [],
+          "slot_index": 0
+        },
+        {
+          "name": "image_list",
+          "type": "IMAGE",
+          "links": [
+            171
+          ],
+          "slot_index": 1,
+          "shape": 6
+        },
+        {
+          "name": "file_name",
+          "type": "STRING",
+          "links": [
+            168
+          ],
+          "slot_index": 2,
+          "shape": 6
+        },
+        {
+          "name": "count",
+          "type": "INT",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_BlurImages"
+      },
+      "widgets_values": [
+        0.25,
+        "",
+        {
+          "columns": 3,
+          "dataset": {
+            "nodes": [
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG",
+                      "title": "HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=HD&nonce=Ka6Hh7RK",
+                    "value": "/view?filename=HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=HD&nonce=Ka6Hh7RK"
+                  }
+                },
+                "id": "1",
+                "value": "1"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "256w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG",
+                      "title": "256w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=256w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=256w&nonce=8zsWVR1A",
+                    "value": "/view?filename=256w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=256w&nonce=8zsWVR1A"
+                  }
+                },
+                "id": "2",
+                "value": "2"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "320w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG",
+                      "title": "320w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=320w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=320w&nonce=kIAYI86j",
+                    "value": "/view?filename=320w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=320w&nonce=kIAYI86j"
+                  }
+                },
+                "id": "3",
+                "value": "3"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "512w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG",
+                      "title": "512w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=512w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=512w&nonce=nbs0P9FI",
+                    "value": "/view?filename=512w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=512w&nonce=nbs0P9FI"
+                  }
+                },
+                "id": "4",
+                "value": "4"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "640w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG",
+                      "title": "640w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=640w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=640w&nonce=4vAVk7Bz",
+                    "value": "/view?filename=640w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=640w&nonce=4vAVk7Bz"
+                  }
+                },
+                "id": "5",
+                "value": "5"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "1024w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG",
+                      "title": "1024w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=1024w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=1024w&nonce=TIMYxVGS",
+                    "value": "/view?filename=1024w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=1024w&nonce=TIMYxVGS"
+                  }
+                },
+                "id": "6",
+                "value": "6"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "1280w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG",
+                      "title": "1280w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=1280w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=1280w&nonce=jQTXOZdc",
+                    "value": "/view?filename=1280w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=1280w&nonce=jQTXOZdc"
+                  }
+                },
+                "id": "7",
+                "value": "7"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "2048w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG",
+                      "title": "2048w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=2048w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=2048w&nonce=pYcvB6wM",
+                    "value": "/view?filename=2048w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=2048w&nonce=pYcvB6wM"
+                  }
+                },
+                "id": "8",
+                "value": "8"
+              },
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "2560w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG",
+                      "title": "2560w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=2560w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=2560w&nonce=dkuESFAx",
+                    "value": "/view?filename=2560w_HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001__Blur.PNG&type=temp&subfolder=2560w&nonce=dkuESFAx"
+                  }
+                },
+                "id": "9",
+                "value": "9"
+              }
+            ]
+          },
+          "index": null,
+          "name": "",
+          "view": "main"
+        }
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 4,
+      "type": "LF_String",
+      "pos": [
+        -615,
+        645
+      ],
+      "size": [
+        495,
+        675
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [
+            14,
+            61,
+            104
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "string_list",
+          "type": "STRING",
+          "links": null,
+          "shape": 6
+        }
+      ],
+      "title": "Category",
+      "properties": {
+        "Node name for S&R": "LF_String"
+      },
+      "widgets_values": [
+        "ai-photos",
+        true,
+        false,
+        4488852886961,
+        "randomize",
+        {
+          "nodes": [
+            {
+              "icon": "history",
+              "id": "ai-anime",
+              "description": "Execution date: 17/02/2025, 10:27:21.",
+              "value": "ai-anime"
+            },
+            {
+              "icon": "history",
+              "id": "ai-photos",
+              "description": "Execution date: 17/02/2025, 10:36:16.",
+              "value": "ai-photos"
+            }
+          ]
+        }
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    },
+    {
+      "id": 71,
+      "type": "LF_LoadImages",
+      "pos": [
+        345,
+        390
+      ],
+      "size": [
+        420,
+        675
+      ],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "dir",
+          "type": "STRING",
+          "link": 143,
+          "widget": {
+            "name": "dir"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "links": [
+            232
+          ],
+          "slot_index": 0,
+          "shape": 6
+        },
+        {
+          "name": "image_list",
+          "type": "IMAGE",
+          "links": [
+            199
+          ],
+          "slot_index": 1,
+          "shape": 6
+        },
+        {
+          "name": "name",
+          "type": "STRING",
+          "links": [
+            200,
+            227
+          ],
+          "slot_index": 2,
+          "shape": 6
+        },
+        {
+          "name": "creation_date",
+          "type": "STRING",
+          "links": [
+            224
+          ],
+          "slot_index": 3,
+          "shape": 6
+        },
+        {
+          "name": "nr",
+          "type": "INT",
+          "links": [],
+          "slot_index": 4,
+          "shape": 3
+        },
+        {
+          "name": "selected_image",
+          "type": "IMAGE",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "selected_index",
+          "type": "INT",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "selected_name",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LF_LoadImages"
+      },
+      "widgets_values": [
+        "",
+        false,
+        true,
+        1,
+        false,
+        {
+          "columns": 3,
+          "dataset": {
+            "nodes": [
+              {
+                "cells": {
+                  "lfImage": {
+                    "htmlProps": {
+                      "id": "HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.png",
+                      "title": "HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.png"
+                    },
+                    "shape": "image",
+                    "lfValue": "/view?filename=HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.png&type=input&subfolder=&nonce=MYYoUKIq",
+                    "value": "/view?filename=HD_m0r4n4_contrapposto_2024-08-16_16-54-24__00001_.png&type=input&subfolder=&nonce=MYYoUKIq"
+                  }
+                },
+                "id": "1",
+                "value": "1"
+              }
+            ]
+          },
+          "index": null,
+          "name": "",
+          "view": "masonry"
+        }
+      ],
+      "color": "#414141",
+      "bgcolor": "#2d2d2d",
+      "shape": 1
+    }
+  ],
+  "links": [
+    [
+      14,
+      4,
+      0,
+      10,
+      0,
+      "STRING"
+    ],
+    [
+      42,
+      28,
+      0,
+      10,
+      1,
+      "STRING"
+    ],
+    [
+      59,
+      35,
+      0,
+      10,
+      2,
+      "STRING"
+    ],
+    [
+      60,
+      35,
+      0,
+      29,
+      0,
+      "STRING"
+    ],
+    [
+      61,
+      4,
+      0,
+      29,
+      1,
+      "STRING"
+    ],
+    [
+      62,
+      28,
+      0,
+      29,
+      2,
+      "STRING"
+    ],
+    [
+      87,
+      36,
+      0,
+      39,
+      1,
+      "STRING"
+    ],
+    [
+      103,
+      28,
+      0,
+      49,
+      0,
+      "*"
+    ],
+    [
+      104,
+      4,
+      0,
+      50,
+      0,
+      "*"
+    ],
+    [
+      105,
+      49,
+      0,
+      51,
+      0,
+      "*"
+    ],
+    [
+      106,
+      50,
+      0,
+      52,
+      0,
+      "*"
+    ],
+    [
+      118,
+      52,
+      0,
+      59,
+      0,
+      "STRING"
+    ],
+    [
+      119,
+      51,
+      0,
+      59,
+      1,
+      "STRING"
+    ],
+    [
+      128,
+      61,
+      0,
+      59,
+      3,
+      "STRING"
+    ],
+    [
+      131,
+      59,
+      0,
+      65,
+      0,
+      "STRING"
+    ],
+    [
+      143,
+      10,
+      0,
+      71,
+      0,
+      "STRING"
+    ],
+    [
+      150,
+      73,
+      0,
+      74,
+      0,
+      "*"
+    ],
+    [
+      153,
+      65,
+      0,
+      75,
+      0,
+      "STRING"
+    ],
+    [
+      154,
+      75,
+      0,
+      67,
+      0,
+      "JSON"
+    ],
+    [
+      157,
+      75,
+      0,
+      78,
+      0,
+      "JSON"
+    ],
+    [
+      158,
+      40,
+      0,
+      79,
+      0,
+      "*"
+    ],
+    [
+      159,
+      79,
+      0,
+      19,
+      0,
+      "STRING"
+    ],
+    [
+      160,
+      79,
+      0,
+      80,
+      0,
+      "*"
+    ],
+    [
+      161,
+      80,
+      0,
+      81,
+      0,
+      "*"
+    ],
+    [
+      162,
+      81,
+      0,
+      82,
+      0,
+      "*"
+    ],
+    [
+      164,
+      52,
+      0,
+      61,
+      1,
+      "STRING"
+    ],
+    [
+      165,
+      51,
+      0,
+      61,
+      2,
+      "STRING"
+    ],
+    [
+      168,
+      83,
+      2,
+      19,
+      1,
+      "STRING"
+    ],
+    [
+      171,
+      83,
+      1,
+      84,
+      0,
+      "IMAGE"
+    ],
+    [
+      173,
+      24,
+      0,
+      85,
+      0,
+      "IMAGE"
+    ],
+    [
+      185,
+      19,
+      0,
+      88,
+      0,
+      "STRING"
+    ],
+    [
+      187,
+      59,
+      0,
+      90,
+      0,
+      "STRING"
+    ],
+    [
+      189,
+      61,
+      0,
+      92,
+      0,
+      "STRING"
+    ],
+    [
+      190,
+      29,
+      0,
+      93,
+      0,
+      "STRING"
+    ],
+    [
+      191,
+      10,
+      0,
+      94,
+      0,
+      "STRING"
+    ],
+    [
+      196,
+      93,
+      0,
+      40,
+      0,
+      "*"
+    ],
+    [
+      198,
+      93,
+      0,
+      39,
+      0,
+      "STRING"
+    ],
+    [
+      199,
+      71,
+      1,
+      97,
+      0,
+      "IMAGE"
+    ],
+    [
+      200,
+      71,
+      2,
+      97,
+      1,
+      "STRING"
+    ],
+    [
+      201,
+      97,
+      1,
+      83,
+      0,
+      "IMAGE"
+    ],
+    [
+      202,
+      97,
+      1,
+      24,
+      0,
+      "*"
+    ],
+    [
+      209,
+      97,
+      2,
+      98,
+      0,
+      "STRING"
+    ],
+    [
+      210,
+      97,
+      3,
+      99,
+      0,
+      "STRING"
+    ],
+    [
+      211,
+      97,
+      4,
+      100,
+      0,
+      "STRING"
+    ],
+    [
+      215,
+      39,
+      0,
+      89,
+      0,
+      "STRING"
+    ],
+    [
+      221,
+      97,
+      4,
+      36,
+      0,
+      "*"
+    ],
+    [
+      222,
+      97,
+      4,
+      83,
+      1,
+      "STRING"
+    ],
+    [
+      224,
+      71,
+      3,
+      73,
+      0,
+      "*"
+    ],
+    [
+      225,
+      74,
+      0,
+      59,
+      4,
+      "STRING"
+    ],
+    [
+      226,
+      74,
+      0,
+      61,
+      0,
+      "STRING"
+    ],
+    [
+      227,
+      71,
+      2,
+      103,
+      0,
+      "*"
+    ],
+    [
+      228,
+      103,
+      0,
+      104,
+      0,
+      "*"
+    ],
+    [
+      229,
+      104,
+      0,
+      59,
+      2,
+      "STRING"
+    ],
+    [
+      230,
+      104,
+      0,
+      61,
+      3,
+      "STRING"
+    ],
+    [
+      232,
+      71,
+      0,
+      105,
+      0,
+      "IMAGE"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.32349184307611595,
+      "offset": [
+        1902.3285404326361,
+        1284.76850635737
+      ]
+    },
+    "node_versions": {
+      "lf-nodes": "efccb1d68317c58ee78cc65ff54c56bea3dc27d5"
+    },
+    "ue_links": []
+  },
+  "version": 0.4
+}
